@@ -1,0 +1,4 @@
+c:\users\jussimar\documents\visual studio 2010\Projects\exemplo apostila excecao\exemplo apostila excecao\bin\Debug\exemplo apostila excecao.exe
+c:\users\jussimar\documents\visual studio 2010\Projects\exemplo apostila excecao\exemplo apostila excecao\bin\Debug\exemplo apostila excecao.pdb
+c:\users\jussimar\documents\visual studio 2010\Projects\exemplo apostila excecao\exemplo apostila excecao\obj\x86\Debug\exemplo apostila excecao.exe
+c:\users\jussimar\documents\visual studio 2010\Projects\exemplo apostila excecao\exemplo apostila excecao\obj\x86\Debug\exemplo apostila excecao.pdb
